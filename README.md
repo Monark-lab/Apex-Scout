@@ -1,3 +1,16 @@
+```
+                                ========================================================
+                                      _____                      _____                      _   
+                                     |  _  |                    /  ___|                    | |  
+                                     | |_| | _ __    ___ __  __ \ `--.   ___  ___   _   _  | |_ 
+                                     |  _  || '_ \  / _ \\ \/ /  `--. \ / __|/ _ \ | | | | | __|
+                                     | | | || |_) ||  __/ >  <  /\__/ /| (__| (_) || |_| | | |_ 
+                                     \_| |_/| .__/  \___|/_/\_\ \____/  \___|\___/  \__,_|  \__|
+                                            | |                                                 
+                                            |_|         [ Phase: Backend Development ]
+                                    ========================================================
+ ```
+
 # Apex-Scout
 ApexScout is a lightweight, modular vulnerability scanner built in Python. It is designed to automate the reconnaissance and detection phases of web security testing, specifically focusing on the OWASP Top 10.  
 
